@@ -1,4 +1,4 @@
-#ROB313 - Introduction to Learning from Data
+ROB313 - Introduction to Learning from Data
 
 Instructions of how the scripts should be run:
 1. All the questions can be run with the 'main' function
